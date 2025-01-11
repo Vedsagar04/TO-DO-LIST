@@ -1,3 +1,3 @@
-TO-DO-LIST APP
+# TO-DO-LIST APP using React Js
 
-https://vedsagar04.github.io/TO-DO-LIST/
+https://to-do-list-jade-sigma.vercel.app/
